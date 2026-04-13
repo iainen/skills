@@ -4,7 +4,7 @@ description: Generate a concise one-line commit message from staged changes and 
 allowed-tools: Bash
 ---
 
-# Simple Git Commit
+# Git Commit
 
 **Arguments**: the user may pass a commit message directly, e.g. `/git-commit-simple Fix login redirect`. If an argument is present, treat it as the final message verbatim — **skip steps 2 and 3** (no drafting, no confirmation) and go straight to step 4.
 
