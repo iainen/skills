@@ -1,5 +1,5 @@
 ---
-name: git-commit-simple
+name: gitcommit
 description: Generate a concise one-line commit message from staged changes and commit. A minimal alternative to git-commit with no conventional-commit scaffolding. Use when the user wants a lightweight commit flow, a plain commit message, or mentions "simple commit".
 allowed-tools: Bash
 ---
